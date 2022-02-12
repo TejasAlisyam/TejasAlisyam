@@ -1,4 +1,4 @@
-  👋 Hi, I’m @TejasAlisyam
+  <hi align = "center">👋 Hi, I’m @TejasAlisyam</h1>
 - 👀 I’m interested in webDev
 - 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on webdev

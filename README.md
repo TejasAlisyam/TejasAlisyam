@@ -1,4 +1,4 @@
-                                                        👋 Hi, I’m @TejasAlisyam
+  👋 Hi, I’m @TejasAlisyam
 - 👀 I’m interested in webDev
 - 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on webdev

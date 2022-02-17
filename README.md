@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tejas.alisyam09@gmail.com**
 
-- ⚡ Fun fact **I was fit until someone at a bat.**
+- ⚡ Fun fact **I was fit until someone ate a bat.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

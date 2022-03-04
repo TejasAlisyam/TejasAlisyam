@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas alisyam</h1>
 <h3 align="center">A sophomore pursing dual major in Physics and Mechanical Engineering in BITS Pilani</h3>
 
-- 🌱 I’m currently learning **EJS**
+- 🌱 I’m currently learning **react**
 
 - 💬 Ask me about **react, express, node**
 

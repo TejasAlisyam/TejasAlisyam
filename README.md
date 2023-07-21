@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tejas alisyam</h1>
-<h3 align="center">A sophomore pursing dual major in Physics and Mechanical Engineering in BITS Pilani</h3>
+<h3 align="center">A 3rd yearite pursing dual major in Physics and Mechanical Engineering in BITS Pilani</h3>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Computer Vision**
 
-- 💬 Ask me about **react, express, node**
+- 💬 Ask me about ** Deep Learning**
 
 - 📫 How to reach me **tejas.alisyam09@gmail.com**
 
-- ⚡ Fun fact : **I was fit until someone ate a bat.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
